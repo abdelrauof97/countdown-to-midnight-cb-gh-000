@@ -7,3 +7,4 @@ def counterdown
   return "HAPPY NEW YEAR!"
 end
 counterdown
+def 
