@@ -6,4 +6,4 @@ def counterdown
   end
   return "HAPPY NEW YEAR!"
 end
-countdown
+counterdown
